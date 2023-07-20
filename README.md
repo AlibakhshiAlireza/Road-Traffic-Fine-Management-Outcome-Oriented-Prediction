@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Road Traffic Fine Management Project</title>
 </head>
 <body>
   <h1>Road Traffic Fine Management Project</h1>
